@@ -2,4 +2,4 @@
 
 JS lessons
 Hello, Azaliya!
-Heppy days!
+Happy days!
