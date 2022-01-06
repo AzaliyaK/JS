@@ -1,3 +1,3 @@
 # JS
 JS lessons
-Helloy!
+Hello!
